@@ -37,7 +37,4 @@ Firebase In-App Messaging SDK.
       '$(inherited) ' +
       'FIRInAppMessagingDisplay_LIB_VERSION=' + String(s.version)
   }
-
-  s.dependency 'FirebaseCore'
-  s.dependency 'FirebaseInAppMessaging', '>=0.12.0'
 end
