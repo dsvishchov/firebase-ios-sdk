@@ -13,8 +13,8 @@ Firebase In-App Messaging SDK.
   s.authors          = 'Google, Inc.'
 
   s.source           = {
-    :git => 'https://github.com/firebase/firebase-ios-sdk.git',
-    :tag => 'InAppMessagingDisplay-' + s.version.to_s
+    :git => 'https://github.com/dsvishchov/firebase-ios-sdk.git',
+    :branch => 'InAppMessagingDisplay-' + s.version.to_s
   }
   s.social_media_url = 'https://twitter.com/Firebase'
   s.ios.deployment_target = '8.0'
